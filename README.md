@@ -20,6 +20,7 @@ The user should be able to:
 * [Usage](#usage)
 * [Finished Product](#finished-product)
 * [Technologies](#technologies)
+* [FutureDevelopment] (#future-development)
 * [Questions](#questions)
 
 ## Usage
@@ -43,6 +44,9 @@ Express.js
 MongoDB
 Mongoose
 Chart.js
+
+## Future Development
+In the coming weeks, I'd really like to work on the styling of this webpage. Both the medium of the pages and the charts don't look quite as nice as I'd like them to with more sophisticated styling. With time, this will come! 
 
 ## Questions
 ​
