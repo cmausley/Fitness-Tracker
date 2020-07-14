@@ -20,7 +20,7 @@ The user should be able to:
 * [Usage](#usage)
 * [Finished Product](#finished-product)
 * [Technologies](#technologies)
-* [FutureDevelopment] (#future-development)
+* [Future Development](#future-development)
 * [Questions](#questions)
 
 ## Usage
