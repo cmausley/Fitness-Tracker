@@ -26,9 +26,13 @@ The user should be able to:
 Run "npm i" in your terminal, and once it has finished installing, run "npm install mongoose"
 
 ## Finished Product
-View the deployed Heroku app here: 
+View the deployed Heroku app here: https://fitness-tracker-ausley.herokuapp.com/?id=5f0d18863b35140017e490c4 
 
-Or, view a demo of the deployed version here: 
+Take a look:
+
+![Dashboard](ft1.JPG)
+![Charts](ft2.JPG)
+![Logger](ft3.JPG)
 
 ## Technologies
 HTML
